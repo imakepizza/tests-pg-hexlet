@@ -1,0 +1,23 @@
+{
+  "type": "module",
+  "scripts": {
+    "test": "node --experimental-modules --no-warnings ./tests/capitalize.test.js"
+  },
+  "name": "tests",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imakepizza/tests-pg-hexlet.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imakepizza/tests-pg-hexlet/issues"
+  },
+  "homepage": "https://github.com/imakepizza/tests-pg-hexlet#readme",
+  "description": ""
+}
